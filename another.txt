@@ -1,1 +1,1 @@
-Local repo's 'main' branch has been successfully connected to default branch 'main'  of remote repo 'origin'
+Local repo's 'main' branch has been successfully connected to default branch 'main' of remote repo 'origin'
